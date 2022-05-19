@@ -1,0 +1,27 @@
+.nav-enlace{
+	display:inline-block ;
+	background:salmon ;
+	color:#fff ;
+	padding: 10px 30px ;
+	text-decoration: none;
+}
+.nav-enlace:hover{
+   background: rosybrown;
+}
+nav{
+	background: rebeccapurple;
+	padding: 10px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.banner{
+	width:1400px ;
+	height:150px ;
+	border:1px solid blueviolet ;
+	margin:auto ;
+
+	background-image: url(file:///C:/Users/S406D/Downloads/una-casa-lujosa_1920x1080_xtrafondos.com%20(1).jpg);
+
+	background-size: 100% 100%;
+}
